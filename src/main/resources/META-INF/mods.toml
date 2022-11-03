@@ -44,3 +44,9 @@ mandatory = false #mandatory
 versionRange = "[9.7.0,)" #mandatory
 ordering = "NONE"
 side = "BOTH"
+[[dependencies.industrialforegoing]]
+modId = "titanium"
+mandatory = true
+versionRange = "[3.7.0-23, )"
+ordering = "NONE"
+side = "BOTH"
